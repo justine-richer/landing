@@ -1,0 +1,17 @@
+@import url("component/banner.css"); 
+@import url("component/container.css");
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display&display=swap');
+@import url("component/btn-blue.css");
+
+body {
+	font-family: 'Playfair Display', sans-serif;
+	margin: 0;
+	background-color: #FAF7F0;
+}
+h1	{
+	font-family: 'Playfair Display', serif;
+}
+img	{
+	width: 700px;
+	height: 400px;
+}
